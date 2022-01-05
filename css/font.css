@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Happy;
+    src: url("../font/happyBirthday.ttf");
+}
+
+.carousel-caption h1 {
+    font-size: 15rem;
+    padding-bottom: 13rem;
+    font-family: Happy;
+}
+
+#wishes h2 {
+    font-size: 5rem;
+}
+
+#wishes span {
+    font-style: italic;
+}
